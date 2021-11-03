@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv=findViewById(R.id.tv_social);
         tv.setAnimation(animation);
         tv.setVisibility(View.VISIBLE);
+        String asd="vo van";
 
     }
 }
