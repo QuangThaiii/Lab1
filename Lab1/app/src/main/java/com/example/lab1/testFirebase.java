@@ -36,5 +36,6 @@ database=FirebaseDatabase.getInstance();
                 node.setValue("a123");
             }
         });
+        String test="day la giu lieu moi";
     }
 }
