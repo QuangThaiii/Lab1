@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408339591319",
+    "firebase_url": "https://task-manager-e2c58-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "task-manager-e2c58",
+    "storage_bucket": "task-manager-e2c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408339591319:android:c73715e5d72e8a38e179d2",
+        "android_client_info": {
+          "package_name": "com.example.lab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408339591319-abbiqgeaoecvjc7ks9aa1kuqo9uqmm1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C13wYsMvG0ZFHH_pSjUcd-8NJTrsrq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408339591319-abbiqgeaoecvjc7ks9aa1kuqo9uqmm1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
